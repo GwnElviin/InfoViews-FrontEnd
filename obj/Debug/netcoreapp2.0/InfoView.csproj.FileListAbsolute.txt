@@ -1,0 +1,11 @@
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\bin\Debug\netcoreapp2.0\InfoView.deps.json
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\bin\Debug\netcoreapp2.0\InfoView.runtimeconfig.json
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\bin\Debug\netcoreapp2.0\InfoView.runtimeconfig.dev.json
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\bin\Debug\netcoreapp2.0\InfoView.dll
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\bin\Debug\netcoreapp2.0\InfoView.pdb
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\obj\Debug\netcoreapp2.0\InfoView.csprojAssemblyReference.cache
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\obj\Debug\netcoreapp2.0\InfoView.csproj.CoreCompileInputs.cache
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\obj\Debug\netcoreapp2.0\InfoView.AssemblyInfoInputs.cache
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\obj\Debug\netcoreapp2.0\InfoView.AssemblyInfo.cs
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\obj\Debug\netcoreapp2.0\InfoView.dll
+D:\elvin\School\Year 3\ICT-LAB 01\InfoView\obj\Debug\netcoreapp2.0\InfoView.pdb
